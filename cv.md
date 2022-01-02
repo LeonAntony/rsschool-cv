@@ -1,22 +1,28 @@
 
-    1 Имя и фамилия
-    Shuniaiev Anton
-    //
+    #Shuniaiev Anton#
+    ![photo](/img/profileimage.png "imgforprofile")  
 
-    2 Контакты для связи
+===
+
+    ###Contacts:###
     Discord: CaptainD#1591
     GitHub: LeonAntony
-    //
+    
+===
 
-    3 Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о  своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
+    ##About me##
     Hello every one, my name is Antony - im start to learn JavaScript to create gemes.
-    //
+    
+===
+    
+    ##Skils##
+    + Basic HTML
+    + Basic CSS
 
-    4 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-    Basic HTML
-    Basic CSS
+===
 
-    5 Примеры кода
+    ##Example code:##
+
     ```
     <head>
     <h1> Header </h1>
@@ -26,11 +32,20 @@
     </body>
 
     ```
-    6 Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
+
+===
+    ##Work expirience:##
+    Technical support in Internet Provider
     Student of Rolling scopes school
-    7 Образование (включая пройденные курсы и тренинги)
-    National Collage of Trade and Economics
-    8 Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
-    English A2
-    Russian C1
-    Ukranian C1
+    
+===
+    
+    ##Education##
+    Kyiv`s National Collage of Trade and Economics
+
+===
+
+    ###Language###
+    1. English A2
+    2. Russian C1
+    3. Ukranian C1
