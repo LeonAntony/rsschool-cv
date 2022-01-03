@@ -11,7 +11,7 @@
 ===
 
     ##About me##
-    Hello every one, my name is Antony - im start to learn JavaScript to create gemes.
+    Hello everyone, my name is Antony - im start to learn JavaScript to create gemes.
     
 ===
     
